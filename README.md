@@ -12,3 +12,6 @@ Este projeto web é uma aplicação simples que permite pesquisar por atletas e 
 1. **Clonar o repositório:**
    ```bash
    git clone https://seu-repositorio.git
+
+
+[Teste a aplicação no Vercel](https://olimpiadas-imers-o-alura.vercel.app/)
